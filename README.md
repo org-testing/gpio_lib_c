@@ -1,2 +1,4 @@
 # gpio_lib_c
-https://www.asus.com/tw/Single-Board-Computer/Tinker-Board/
+  GPIO_LIB is a extension of Wiring, it can control low speed peripherial of Tinker Board.
+# build
+  chmod a+x build\
